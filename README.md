@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<htmllang="en">
 <html>
      <head>
 	<style>
